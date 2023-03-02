@@ -1,3 +1,7 @@
 h1:nth-of-type(2){
     color: aqua;
 }
+h1:nth-of-type(3){
+    color: rgb(8, 97, 72);
+    background-color: bisque;
+}
